@@ -1,6 +1,6 @@
 # Overview
 
-**Title:** guessinggame 
+**Title:** guessinggame  
 **Category:** Crypto  
 **Flag:** libctf{ecb_mode_blocks_are_independent}  
 **Difficulty:** easy to moderate  
